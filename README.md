@@ -1,1 +1,1 @@
-my 1st game
+a simple number-guessing game!
